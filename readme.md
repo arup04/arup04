@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arup04&label=Profile%20views&color=0e75b6&style=flat" alt="arup04" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning,GenAI, PyTorch**
+- 🌱 I’m currently learning **Deep Learning, GenAI, PyTorch**
 
 - 📫 How to reach me **arup46606@gmail.com**
 
