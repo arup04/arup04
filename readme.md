@@ -1,3 +1,5 @@
+![logo](https://github.com/arup04/arup04/blob/main/Arup%20Das.png)
+
 <h1 align="center">Hi 👋, I'm Arup Das</h1>
 <h3 align="center">A passionate Software and AI/ML Engineer from India</h3>
 
